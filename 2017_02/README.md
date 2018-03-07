@@ -99,3 +99,9 @@
 김효진 | [재정상태에 따른 행복지수와 평균연령간의 관계분석](https://github.com/youngwoos/MJUProject/tree/master/2017_02/team8/members/member2/team8_2.md)
 김대기 | [서울시 사람 중 돈이 많을 수록 행복할까?](https://github.com/youngwoos/MJUProject/tree/master/2017_02/team8/members/member3/team8_3.md)
 신송아 | ["재정수준과 재정상태에 따른 행복지수 상관관계분석"](https://github.com/youngwoos/MJUProject/tree/master/2017_02/team8/members/member4/team8_4.md)
+
+
+---
+
+### 문의
+stats7445@gmail.com
